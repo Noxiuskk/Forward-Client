@@ -7,7 +7,7 @@
         "forwarder",
         "userbot"
     ],
-    "repository": "https://github.com/Noxiuskk/Forward-Client"
+    "repository": "https://github.com/Noxiuskk/Forward-Client",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
